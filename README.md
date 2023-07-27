@@ -8,11 +8,7 @@ The script solves stationary advection-diffusion equation with cylindrical symme
 
 Based on [this publication](https://link.springer.com/article/10.1134/S096554252304005X).
 
-* The equation in the proposed problem set can be solved analytically. However due to that fact that the solution is formed by an infinite series, derivation of a simple formula for aggregation kernel is problematic. That is why we use Pade approximation technique. Below we see that the numerical solution corresponds well to the proposed formula:
-
-![final.jpg](/final.jpg)
-
-* Example of a numerical solution for distinct Peclet numbers:
+* The equation in the proposed problem set can be solved analytically. However due to that fact that the solution is formed by an infinite series, derivation of a simple formula for aggregation kernel is problematic. That is why we use Pade approximation technique. Example of a numerical solution for distinct Peclet numbers:
 
 ![cartezian.jpg](/cartezian.jpg)
 
