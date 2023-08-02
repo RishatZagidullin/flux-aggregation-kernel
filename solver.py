@@ -2,7 +2,6 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 import math
-from tqdm import tqdm
 
 from scipy.sparse import csc_matrix
 from scipy.sparse.linalg import spsolve
